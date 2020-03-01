@@ -7,4 +7,5 @@ assignees: ''
 
 ---
 
-** place blog page url **
+**flatjs blog comment page url**
+
